@@ -1,3 +1,4 @@
+//https://www.pbinfo.ro/probleme/3297/fmi-orase1
 #include <bits/stdc++.h>
 using namespace std;
 ifstream fin("fmi_orase1.in");
