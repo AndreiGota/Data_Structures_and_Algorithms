@@ -1,3 +1,4 @@
+//https://www.pbinfo.ro/probleme/2793/pozitiiconsecutive
 #include<bits/stdc++.h>
 using namespace std;
 
