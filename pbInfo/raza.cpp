@@ -1,3 +1,4 @@
+//https://www.pbinfo.ro/probleme/2611/raza
 #include<iostream>
 #include<fstream>
 using namespace std;
