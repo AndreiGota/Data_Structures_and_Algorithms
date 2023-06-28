@@ -1,3 +1,4 @@
+//https://www.pbinfo.ro/probleme/3298/fmi-orase2
 #include <fstream>
 
 using namespace std;
