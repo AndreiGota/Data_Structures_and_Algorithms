@@ -1,3 +1,4 @@
+//https://www.pbinfo.ro/probleme/2441/pereche-descentrata
 #include <iostream>
 #include <string.h>
 
