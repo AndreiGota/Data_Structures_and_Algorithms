@@ -1,3 +1,4 @@
+//https://www.pbinfo.ro/probleme/29/maxprime
 bool prim(int n){
     int d = 2, cnt = 1;
     while(n > 1){
