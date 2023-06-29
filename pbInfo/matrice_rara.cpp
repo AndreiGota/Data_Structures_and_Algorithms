@@ -1,3 +1,4 @@
+//https://www.pbinfo.ro/probleme/1323/matrice-rara
 #include<bits/stdc++.h>
 using namespace std;
 
