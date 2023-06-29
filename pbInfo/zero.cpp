@@ -1,3 +1,4 @@
+//https://www.pbinfo.ro/probleme/817/zero
 void zero(int n, int a[]){
     int par[51], imp[51], ip = 0, ii = 0;
     for(int i = 1; i <= 2 * n; ++i)
